@@ -1,5 +1,9 @@
+
 .title{
-    position: absolute;
+    /* Our Expert Team */
+
+
+position: absolute;
 width: 448px;
 height: 70px;
 left: 535px;
@@ -13,4 +17,324 @@ line-height: 70px;
 
 color: #000000;
 
+}
+
+.t{
+    position: absolute;
+width: 889px;
+height: 90px;
+left: 315px;
+top: 159px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+color: #757373;
+
+}
+
+.rectagle{
+   /* Rectangle 23 */
+
+
+position: absolute;
+width: 1010px;
+height: 90px;
+left: 255px;
+top: 808px;
+
+background: #C7F2FF;
+}
+
+.t1{
+    position: absolute;
+width: 299px;
+height: 35px;
+left: 610px;
+top: 836px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+
+}
+.rectagle2{
+    /* Rectangle 24 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 256px;
+top: 946px;
+
+border: 1px solid #A8A5A5;
+}
+
+.n{
+/* Full Name */
+
+
+position: absolute;
+width: 90px;
+height: 23px;
+left: 275px;
+top: 960px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+
+}
+.rectagle3{
+    /* Rectangle 25 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 804px;
+top: 946px;
+
+border: 1px solid #A8A5A5;
+}
+
+.email{
+    /* Email */
+
+
+position: absolute;
+width: 50px;
+height: 23px;
+left: 823px;
+top: 960px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+
+}
+.rectagle4{
+    /* Rectangle 26 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 256px;
+top: 1032px;
+
+border: 1px solid #A8A5A5;
+}
+.phone{
+    /* Phone Number */
+
+
+position: absolute;
+width: 134px;
+height: 23px;
+left: 275px;
+top: 1046px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+}
+.rectagle5{
+    /* Rectangle 27 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 804px;
+top: 1032px;
+
+border: 1px solid #A8A5A5;
+}
+.dep{
+    /* Department */
+
+
+position: absolute;
+width: 106px;
+height: 23px;
+left: 823px;
+top: 1046px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+
+}
+.rectagle6{
+    /* Rectangle 28 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 256px;
+top: 1118px;
+
+border: 1px solid #A8A5A5;
+}
+.add{
+    /* Additional Information */
+
+
+position: absolute;
+width: 199px;
+height: 23px;
+left: 275px;
+top: 1132px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+}
+.rectagle7{
+    /* Rectangle 29 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 461px;
+height: 51px;
+left: 804px;
+top: 1118px;
+
+border: 1px solid #A8A5A5;
+}
+.dt{
+    /* Date and Time */
+
+
+position: absolute;
+width: 129px;
+height: 23px;
+left: 823px;
+top: 1131px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #A09D9D;
+}
+.rectagle8{
+    /* Rectangle 30 */
+
+
+position: absolute;
+width: 169px;
+height: 53px;
+left: 675px;
+top: 1219px;
+
+background: #34C9B6;
+}
+.con{
+/* Confirm */
+
+
+position: absolute;
+width: 75px;
+height: 25px;
+left: 722px;
+top: 1233px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.news{
+    /* News & Events */
+
+
+position: absolute;
+width: 398px;
+height: 70px;
+left: 561px;
+top: 1347px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 70px;
+
+color: #000000;
+}
+
+.t3{
+    position: absolute;
+width: 889px;
+height: 90px;
+left: 315px;
+top: 1445px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+color: #757373;
 }
