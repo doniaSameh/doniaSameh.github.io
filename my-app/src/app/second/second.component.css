@@ -1,0 +1,16 @@
+.title{
+    position: absolute;
+width: 448px;
+height: 70px;
+left: 535px;
+top: 56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 70px;
+
+color: #000000;
+
+}
