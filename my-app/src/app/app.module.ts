@@ -3,14 +3,24 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { DashboardComponent } from './dashboard/dashboard.component';
-import { SecondComponent } from './second/second.component';
+import { SignupComponent } from './signup/signup.component';
+import { LoginComponent } from './login/login.component';
+import { HomeComponent } from './home/home.component';
+import { CartComponent } from './cart/cart.component';
+import { PaymentComponent } from './payment/payment.component';
+import { HistoryComponent } from './history/history.component';
+import { TrackComponent } from './track/track.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    DashboardComponent,
-    SecondComponent
+    SignupComponent,
+    LoginComponent,
+    HomeComponent,
+    CartComponent,
+    PaymentComponent,
+    HistoryComponent,
+    TrackComponent
   ],
   imports: [
     BrowserModule,

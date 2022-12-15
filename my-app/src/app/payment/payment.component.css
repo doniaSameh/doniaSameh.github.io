@@ -1,0 +1,285 @@
+.mobsignal {
+    /* Mobile Signal */
+
+
+    position: absolute;
+    width: 17px;
+    height: 10.67px;
+    left: 5px;
+    top: 12.34px;
+
+
+}
+
+.wifi {
+    /* Wifi */
+
+
+    position: absolute;
+    width: 15.27px;
+    height: 10.97px;
+    left: 25px;
+    top: 12px;
+
+
+}
+
+.batt {
+    /* Battery */
+
+
+    position: absolute;
+    left: 70.48%;
+    right: 6.76%;
+    top: 105.9%;
+    bottom: 93.08%;
+}
+
+.clock {
+    /* 9:41 */
+
+
+    position: absolute;
+    width: 54px;
+    height: 20px;
+    left: 13px;
+    top: 20px;
+
+    /* Default/Bold/Subheadline */
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+
+    text-align: center;
+    letter-spacing: -0.5px;
+
+    color: #000000;
+}
+
+.rs {
+    /* Right Side */
+
+
+    position: absolute;
+    width: 66.66px;
+    height: 11.34px;
+    left: 269px;
+    top: 12px;
+}
+.rectangle{
+    position: absolute;
+width: 360px;
+height: 671px;
+left: 0px;
+top: 129px;
+
+background: #F8F8F8;
+border-radius: 20px 20px 0px 0px;
+}
+.page{
+    position: relative;
+width: 360px;
+height: 800px;
+
+background: linear-gradient(180deg, #FE5F59 0%, rgba(254, 95, 89, 0) 100%);
+filter: drop-shadow(2px 4px 15px rgba(0, 0, 0, 0.25));
+
+}
+.title{
+    position: absolute;
+width: 104px;
+height: 29px;
+left: 128px;
+top: 47px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.back{
+    position: absolute;
+left: 6.94%;
+right: 87.94%;
+top: 6%;
+bottom: 94.07%;
+
+
+}
+.line{
+    position: absolute;
+width: 367px;
+height: 1px;
+left: -7px;
+top: 290px;
+
+background: rgba(254, 95, 89, 0.5);
+}
+.button{
+    position: absolute;
+    width: 310px;
+    height: 40px;
+    left: 25px;
+    top: 470px;
+    
+    background: #FE5F59;
+    border-radius: 10px;
+
+}
+.pay{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 150px;
+top: 470px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EFEAEA;
+
+}
+.price{
+    position: absolute;
+width: 200px;
+height: 14px;
+left: 255px;
+top: 360px;
+
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #181818;
+
+}
+.total{
+    position: absolute;
+width: 311px;
+height: 20px;
+left: 30px;
+top: 360px;
+}
+.subtitle{
+    position: absolute;
+width: 142px;
+height: 21px;
+left: 20px;
+top: 50px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #181818;
+
+}
+.sub2{
+    position: absolute;
+width: 279px;
+height: 21px;
+left: 23px;
+top: 90px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #808080;
+
+}
+.circle{
+    position: absolute;
+left: 10%;
+right: 93.35%;
+top: 23.46%;
+bottom: 75.82%;
+
+}
+.circle2{
+    position: absolute;
+left: 10%;
+right: 93.35%;
+top: 30.98%;
+bottom: 35.29%;
+
+color: #FE5F59;
+}
+.card{
+    position: absolute;
+width: 132px;
+height: 41px;
+left: 110px;
+top: 150px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+.delivery{
+    position: absolute;
+width: 132px;
+height: 41px;
+left: 110px;
+top: 200px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+.cardIcon{
+    position: absolute;
+left: 68.99%;
+right: 21.52%;
+top: 22.84%;
+bottom: 72.55%;
+}
+.deliveryIcon{
+    position: absolute;
+left: 69.50%;
+right: 21.52%;
+top: 30.5%;
+bottom: 32.03%;
+
+}

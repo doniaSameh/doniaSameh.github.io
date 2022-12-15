@@ -1,0 +1,365 @@
+.mobsignal {
+    /* Mobile Signal */
+
+
+    position: absolute;
+    width: 17px;
+    height: 10.67px;
+    left: 5px;
+    top: 12.34px;
+
+
+}
+
+.wifi {
+    /* Wifi */
+
+
+    position: absolute;
+    width: 15.27px;
+    height: 10.97px;
+    left: 25px;
+    top: 12px;
+
+
+}
+
+.batt {
+    /* Battery */
+
+
+    position: absolute;
+    left: 70.48%;
+    right: 6.76%;
+    top: 105.9%;
+    bottom: 93.08%;
+}
+
+.clock {
+    /* 9:41 */
+
+
+    position: absolute;
+    width: 54px;
+    height: 20px;
+    left: 13px;
+    top: 20px;
+
+    /* Default/Bold/Subheadline */
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+
+    text-align: center;
+    letter-spacing: -0.5px;
+
+    color: #000000;
+}
+
+.rs {
+    /* Right Side */
+
+
+    position: absolute;
+    width: 66.66px;
+    height: 11.34px;
+    left: 269px;
+    top: 12px;
+}
+
+.page {
+    position: relative;
+    width: 370px;
+    height: 842px;
+    
+
+    background: #F3F3F3;
+    box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.search {
+    position: absolute;
+    width: 237px;
+    height: 41px;
+    left: 3px;
+    top: 10px;
+
+}
+
+.searchIcon {
+    position: absolute;
+    width: 10.12px;
+    height: 9.77px;
+    left: 34.66px;
+    top: 48px;
+}
+
+.searchFood {
+    position: absolute;
+    width: 130.76px;
+    height: 31px;
+    left: 48.59px;
+    top: 38px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+
+    color: rgba(18, 18, 18, 0.5);
+
+}
+
+.cartIcon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 315px;
+    top: 40px;
+
+}
+
+.plugin {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 13px;
+
+    position: absolute;
+    width: 361px;
+    height: 161px;
+    left: 5px;
+    top: 98px;
+    overflow-x: scroll;
+}
+
+.searchBox {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 237px;
+    height: 41px;
+    left: 25px;
+    top: 33px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.firstplugin {
+    width: 246px;
+    height: 141px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.secondplugin{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 13px;
+
+    position: absolute;
+    width: 361px;
+    height: 161px;
+    left: 190px;
+    top: 98px;
+}
+.subtitle{
+    position: absolute;
+width: 170px;
+height: 18px;
+left: 16px;
+top: 290px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #121212;
+
+}
+.rec{
+    position: absolute;
+width: 320px;
+height: 133px;
+left: 16px;
+top: 330px;
+
+
+}
+.rec1{
+    position: absolute;
+width: 90px;
+height: 101px;
+left: 1px;
+top: 4px;
+
+}
+.rec2{
+    position: absolute;
+width: 103px;
+height: 101px;
+left: 110px;
+top: 4px;
+}
+.rec3{
+ position: absolute;
+width: 88px;
+height: 101px;
+left: 232px;
+top: 4px;
+}
+.subtitle2{
+    position: absolute;
+    width: 169.86px;
+    height: 18px;
+    left: 16px;
+    top: 500px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #121212;
+      
+}
+.rec4{
+    position: absolute;
+width: 323px;
+height: 153px;
+left: 16px;
+top: 413px;
+
+}
+.rec5{
+    position: absolute;
+width: 90px;
+height: 101px;
+left: 6px;
+top: 130px;
+}
+.rec6{
+    position: absolute;
+    width: 103px;
+    height: 101px;
+    left: 110px;
+    top: 130px;
+    
+}
+.rec7{
+    position: absolute;
+    width: 96px;
+    height: 101px;
+    left: 230px;
+    top: 130px;
+    
+}
+.bk{
+    position: absolute;
+width: 300px;
+height: 12px;
+left: 8px;
+top: 115px;
+
+}
+.mcdon{
+    position: absolute;
+width: 300px;
+height: 12px;
+left: 125px;
+top: 115px;
+}
+.pizza{
+    position: absolute;
+    width: 300px;
+    height: 9px;
+    left: 243px;
+    top: 115px;
+}
+.sb{
+    position: absolute;
+width: 62.7px;
+height: 9px;
+left: 15px;
+top: 250px;
+
+}
+.cc{
+    position: absolute;
+width: 200px;
+height: 9px;
+left: 118px;
+top: 250px;
+
+}
+.cil{
+    position: absolute;
+width: 54.72px;
+height: 9px;
+left: 250px;
+top: 250px;
+
+}
+.bottom{
+position: absolute;
+width: 369px;
+height: 45px;
+left: 0.4px;
+top: 800px;
+
+
+background: #FFFFFF;
+}
+.home{
+    position: absolute;
+    left: 11.39%;
+    right: 81.39%;
+    top: 10%;
+    bottom: 15.56%;
+}
+.menu{
+    position: absolute;
+    left: 34.72%;
+    right: 58.33%;
+    top: 13%;
+    bottom: 20.56%;
+    
+}
+.history{
+    position: absolute;
+    left: 57.78%;
+    right: 34.17%;
+    top: 16%;
+    bottom: 15.56%;
+    
+}
+.more{
+    position: absolute;
+    left: 80.83%;
+    right: 10.56%;
+    top: 30%;
+    bottom: 15.56%;
+}

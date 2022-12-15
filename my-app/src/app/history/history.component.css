@@ -1,0 +1,521 @@
+.mobsignal {
+    /* Mobile Signal */
+
+
+    position: absolute;
+    width: 17px;
+    height: 10.67px;
+    left: 5px;
+    top: 12.34px;
+
+
+}
+
+.wifi {
+    /* Wifi */
+
+
+    position: absolute;
+    width: 15.27px;
+    height: 10.97px;
+    left: 25px;
+    top: 12px;
+
+
+}
+
+.batt {
+    /* Battery */
+
+
+    position: absolute;
+    left: 70.48%;
+    right: 6.76%;
+    top: 105.9%;
+    bottom: 93.08%;
+}
+
+.clock {
+    /* 9:41 */
+
+
+    position: absolute;
+    width: 54px;
+    height: 20px;
+    left: 13px;
+    top: 20px;
+
+    /* Default/Bold/Subheadline */
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+
+    text-align: center;
+    letter-spacing: -0.5px;
+
+    color: #000000;
+}
+
+.rs {
+    /* Right Side */
+
+
+    position: absolute;
+    width: 66.66px;
+    height: 11.34px;
+    left: 269px;
+    top: 12px;
+}
+.rectangle{
+    position: absolute;
+width: 360px;
+height: 671px;
+left: 0px;
+top: 129px;
+
+background: #F8F8F8;
+border-radius: 20px 20px 0px 0px;
+}
+.page{
+    position: relative;
+width: 360px;
+height: 800px;
+
+background: linear-gradient(180deg, #FE5F59 0%, rgba(254, 95, 89, 0) 100%);
+filter: drop-shadow(2px 4px 15px rgba(0, 0, 0, 0.25));
+
+}
+.title{
+    position: absolute;
+width: 104px;
+height: 29px;
+left: 128px;
+top: 47px;
+
+font-family: 'Salsa';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.back{
+    position: absolute;
+left: 6.94%;
+right: 87.94%;
+top: 6%;
+bottom: 94.07%;
+
+
+}
+.line{
+    position: absolute;
+width: 330px;
+height: 1px;
+left: 8px;
+top: 254px;
+
+background: rgba(254, 95, 89, 0.5);
+}
+.button{
+    position: absolute;
+    width: 310px;
+    height: 40px;
+    left: 25px;
+    top: 470px;
+    
+    background: #FE5F59;
+    border-radius: 10px;
+
+}
+.pay{
+    position: absolute;
+width: 310px;
+height: 40px;
+left: 150px;
+top: 470px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EFEAEA;
+
+}
+.price{
+    position: absolute;
+width: 200px;
+height: 14px;
+left: 255px;
+top: 273px;
+
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #181818;
+
+}
+.total{
+    position: absolute;
+width: 311px;
+height: 20px;
+left: 30px;
+top: 270px;
+}
+.date{
+    position: absolute;
+width: 149px;
+height: 21px;
+left: 21px;
+top: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #121212;
+}
+.recipt{
+    position: absolute;
+width: 74px;
+height: 22px;
+left: 266px;
+top: 48px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #FE5F59;
+
+}
+.reciptnum{
+    position: absolute;
+width: 74px;
+height: 22px;
+left: 315px;
+top: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #121212;
+}
+.order{
+    position: absolute;
+    width: 154px;
+    height: 31.49px;
+    left: 22px;
+    top: 110px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    
+    color: #121212;
+    
+}
+.pcs{
+    position: absolute;
+    width: 59.11px;
+    height: 21.47px;
+    left: 218px;
+    top: 115px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #121212;
+    
+}
+.price2{
+    position: absolute;
+    width: 59.11px;
+    height: 21.47px;
+    left: 282.11px;
+    top: 115px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #121212;
+    
+}
+.capp{
+    position: absolute;
+    width: 78px;
+    height: 21.47px;
+    left: 22px;
+    top: 140px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    
+    color: #808080;
+    
+}
+.pc1{
+    position: absolute;
+    width: 59.11px;
+    height: 21.47px;
+    left: 218px;
+    top: 140px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #808080;
+    
+}
+.price3{
+    position: absolute;
+    width: 64px;
+    height: 21.47px;
+    left: 277px;
+    top: 140px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #808080;
+    
+}
+.bacon{
+    position: absolute;
+    width: 200px;
+    height: 21.47px;
+    left: 22px;
+    top: 160px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    
+    color: #808080;
+    
+}
+.pc2{
+    position: absolute;
+    width: 59.11px;
+    height: 21.47px;
+    left: 218px;
+    top: 160px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #808080;
+    
+}
+.price4{
+    position: absolute;
+    width: 64px;
+    height: 21.47px;
+    left: 277px;
+    top: 160px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #808080;
+    
+}
+.vat{
+    position: absolute;
+width: 88px;
+height: 15.74px;
+left: 45px;
+top: 210px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #808080;
+
+}
+.vatprice{
+    position: absolute;
+width: 55px;
+height: 15.74px;
+left: 277px;
+top: 210px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #808080;
+}
+.deliverycharges{
+    position: absolute;
+width: 92px;
+height: 15.74px;
+left: 22px;
+top: 230px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #808080;
+
+}
+.deliverychargesprice{
+    position: absolute;
+width: 43px;
+height: 15.74px;
+left: 277px;
+top: 230px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #808080;
+
+}
+.line2{
+    position: absolute;
+width: 364px;
+height: 7.5px;
+left: 0px;
+top: 360px;
+
+background: rgba(254, 95, 89, 0.5);
+}
+.bottom{
+position: absolute;
+width: 359.5px;
+height: 45px;
+left: 0.4px;
+top: 754px;
+
+
+background: #FFFFFF;
+}
+.home{
+    position: absolute;
+    left: 11.39%;
+    right: 81.39%;
+    top: 10%;
+    bottom: 15.56%;
+}
+.menu{
+    position: absolute;
+    left: 34.72%;
+    right: 58.33%;
+    top: 13%;
+    bottom: 20.56%;
+    
+}
+.history{
+    position: absolute;
+    left: 57.78%;
+    right: 34.17%;
+    top: 16%;
+    bottom: 15.56%;
+    
+}
+.more{
+    position: absolute;
+    left: 80.83%;
+    right: 10.56%;
+    top: 30%;
+    bottom: 15.56%;
+}
